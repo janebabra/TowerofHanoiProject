@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TowerofHanoi/TowerofHanoi.iml" filepath="$PROJECT_DIR$/TowerofHanoi/TowerofHanoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TowerofHanoiProject.iml" filepath="$PROJECT_DIR$/TowerofHanoiProject.iml" />
+    </modules>
+  </component>
+</project>
+

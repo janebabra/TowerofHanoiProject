@@ -1,0 +1,23 @@
+Relying on packaging to define the extension of the main artifact has been deprecated and is scheduled to be removed in Gradle 2.0
+:TowerofHanoi:preBuild UP-TO-DATE
+:TowerofHanoi:preDebugBuild UP-TO-DATE
+:TowerofHanoi:preReleaseBuild UP-TO-DATE
+:TowerofHanoi:prepareComAndroidSupportAppcompatV71800Library UP-TO-DATE
+:TowerofHanoi:prepareDebugDependencies
+:TowerofHanoi:compileDebugAidl UP-TO-DATE
+:TowerofHanoi:compileDebugRenderscript UP-TO-DATE
+:TowerofHanoi:generateDebugBuildConfig UP-TO-DATE
+:TowerofHanoi:mergeDebugAssets UP-TO-DATE
+:TowerofHanoi:mergeDebugResources UP-TO-DATE
+:TowerofHanoi:processDebugManifest UP-TO-DATE
+:TowerofHanoi:processDebugResources UP-TO-DATE
+:TowerofHanoi:generateDebugSources UP-TO-DATE
+:TowerofHanoi:compileDebug UP-TO-DATE
+:TowerofHanoi:dexDebug UP-TO-DATE
+:TowerofHanoi:processDebugJavaRes UP-TO-DATE
+:TowerofHanoi:validateDebugSigning
+:TowerofHanoi:packageDebug FAILED
+
+BUILD FAILED
+
+Total time: 18.0 secs
